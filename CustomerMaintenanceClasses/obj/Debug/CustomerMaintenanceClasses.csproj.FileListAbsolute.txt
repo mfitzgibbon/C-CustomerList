@@ -1,0 +1,6 @@
+C:\Users\mikel\Documents\CSProjects\C#\CustomerProgram\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Users\mikel\Documents\CSProjects\C#\CustomerProgram\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Users\mikel\Documents\CSProjects\C#\CustomerProgram\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojResolveAssemblyReference.cache
+C:\Users\mikel\Documents\CSProjects\C#\CustomerProgram\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\Users\mikel\Documents\CSProjects\C#\CustomerProgram\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Users\mikel\Documents\CSProjects\C#\CustomerProgram\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
